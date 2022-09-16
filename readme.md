@@ -1,4 +1,4 @@
-# Spring Vulnerable App 
+# Spring Vulnerable App test
 
 [![CI Pipeline](https://github.com/arvos-dev/spring-vulnerable-app/actions/workflows/build.yaml/badge.svg)](https://github.com/arvos-dev/spring-vulnerable-app/actions/workflows/build.yaml)
 
